@@ -1,0 +1,39 @@
+#wrap{
+    margin-top: 6%;
+    margin-left: 2%;
+}
+.c1{
+    margin: 2%;
+    
+    overflow: hidden;
+}
+.c2{
+    margin: 2%;
+    overflow: hidden;
+}
+.c3{
+    margin: 2%;
+    overflow: hidden;
+}
+.b1{
+    margin: 2%;
+}
+label{
+    margin-right: 6%;
+    display: inline;
+}
+#button1{
+    padding-left: 1% ;
+    padding-right: 1%;
+    padding-top: 0.4%;
+    padding-bottom: 0.4%;
+}
+.l2{
+    margin-right: 7%;
+}
+.l3{
+    margin-right: 5.5%;
+}
+p{
+    margin-top: 2%;
+}
